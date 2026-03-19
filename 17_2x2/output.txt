@@ -1,0 +1,2146 @@
+Matrix Determinant Analysis Report
+==================================
+
+Matrix #1 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -64
+Scalar 3 => Determinant = -144
+Scalar 4 => Determinant = -256
+Scalar 5 => Determinant = -400
+Scalar 6 => Determinant = -576
+Scalar 7 => Determinant = -784
+Scalar 8 => Determinant = -1024
+Scalar 9 => Determinant = -1296
+Scalar 10 => Determinant = -1600
+Scalar 11 => Determinant = -1936
+Scalar 12 => Determinant = -2304
+Scalar 13 => Determinant = -2704
+Scalar 14 => Determinant = -3136
+Scalar 15 => Determinant = -3600
+Scalar 16 => Determinant = -4096
+
+First Differences:
+Δ(2,1) = -80
+Δ(3,2) = -112
+Δ(4,3) = -144
+Δ(5,4) = -176
+Δ(6,5) = -208
+Δ(7,6) = -240
+Δ(8,7) = -272
+Δ(9,8) = -304
+Δ(10,9) = -336
+Δ(11,10) = -368
+Δ(12,11) = -400
+Δ(13,12) = -432
+Δ(14,13) = -464
+Δ(15,14) = -496
+
+Second Differences:
+Δ²(3,2,1) = -32
+Δ²(4,3,2) = -32
+Δ²(5,4,3) = -32
+Δ²(6,5,4) = -32
+Δ²(7,6,5) = -32
+Δ²(8,7,6) = -32
+Δ²(9,8,7) = -32
+Δ²(10,9,8) = -32
+Δ²(11,10,9) = -32
+Δ²(12,11,10) = -32
+Δ²(13,12,11) = -32
+Δ²(14,13,12) = -32
+Δ²(15,14,13) = -32
+
+----------------------------------
+
+Matrix #2 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -128
+Scalar 3 => Determinant = -288
+Scalar 4 => Determinant = -512
+Scalar 5 => Determinant = -800
+Scalar 6 => Determinant = -1152
+Scalar 7 => Determinant = -1568
+Scalar 8 => Determinant = -2048
+Scalar 9 => Determinant = -2592
+Scalar 10 => Determinant = -3200
+Scalar 11 => Determinant = -3872
+Scalar 12 => Determinant = -4608
+Scalar 13 => Determinant = -5408
+Scalar 14 => Determinant = -6272
+Scalar 15 => Determinant = -7200
+Scalar 16 => Determinant = -8192
+
+First Differences:
+Δ(2,1) = -160
+Δ(3,2) = -224
+Δ(4,3) = -288
+Δ(5,4) = -352
+Δ(6,5) = -416
+Δ(7,6) = -480
+Δ(8,7) = -544
+Δ(9,8) = -608
+Δ(10,9) = -672
+Δ(11,10) = -736
+Δ(12,11) = -800
+Δ(13,12) = -864
+Δ(14,13) = -928
+Δ(15,14) = -992
+
+Second Differences:
+Δ²(3,2,1) = -64
+Δ²(4,3,2) = -64
+Δ²(5,4,3) = -64
+Δ²(6,5,4) = -64
+Δ²(7,6,5) = -64
+Δ²(8,7,6) = -64
+Δ²(9,8,7) = -64
+Δ²(10,9,8) = -64
+Δ²(11,10,9) = -64
+Δ²(12,11,10) = -64
+Δ²(13,12,11) = -64
+Δ²(14,13,12) = -64
+Δ²(15,14,13) = -64
+
+----------------------------------
+
+Matrix #3 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -192
+Scalar 3 => Determinant = -432
+Scalar 4 => Determinant = -768
+Scalar 5 => Determinant = -1200
+Scalar 6 => Determinant = -1728
+Scalar 7 => Determinant = -2352
+Scalar 8 => Determinant = -3072
+Scalar 9 => Determinant = -3888
+Scalar 10 => Determinant = -4800
+Scalar 11 => Determinant = -5808
+Scalar 12 => Determinant = -6912
+Scalar 13 => Determinant = -8112
+Scalar 14 => Determinant = -9408
+Scalar 15 => Determinant = -10800
+Scalar 16 => Determinant = -12288
+
+First Differences:
+Δ(2,1) = -240
+Δ(3,2) = -336
+Δ(4,3) = -432
+Δ(5,4) = -528
+Δ(6,5) = -624
+Δ(7,6) = -720
+Δ(8,7) = -816
+Δ(9,8) = -912
+Δ(10,9) = -1008
+Δ(11,10) = -1104
+Δ(12,11) = -1200
+Δ(13,12) = -1296
+Δ(14,13) = -1392
+Δ(15,14) = -1488
+
+Second Differences:
+Δ²(3,2,1) = -96
+Δ²(4,3,2) = -96
+Δ²(5,4,3) = -96
+Δ²(6,5,4) = -96
+Δ²(7,6,5) = -96
+Δ²(8,7,6) = -96
+Δ²(9,8,7) = -96
+Δ²(10,9,8) = -96
+Δ²(11,10,9) = -96
+Δ²(12,11,10) = -96
+Δ²(13,12,11) = -96
+Δ²(14,13,12) = -96
+Δ²(15,14,13) = -96
+
+----------------------------------
+
+Matrix #4 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -256
+Scalar 3 => Determinant = -576
+Scalar 4 => Determinant = -1024
+Scalar 5 => Determinant = -1600
+Scalar 6 => Determinant = -2304
+Scalar 7 => Determinant = -3136
+Scalar 8 => Determinant = -4096
+Scalar 9 => Determinant = -5184
+Scalar 10 => Determinant = -6400
+Scalar 11 => Determinant = -7744
+Scalar 12 => Determinant = -9216
+Scalar 13 => Determinant = -10816
+Scalar 14 => Determinant = -12544
+Scalar 15 => Determinant = -14400
+Scalar 16 => Determinant = -16384
+
+First Differences:
+Δ(2,1) = -320
+Δ(3,2) = -448
+Δ(4,3) = -576
+Δ(5,4) = -704
+Δ(6,5) = -832
+Δ(7,6) = -960
+Δ(8,7) = -1088
+Δ(9,8) = -1216
+Δ(10,9) = -1344
+Δ(11,10) = -1472
+Δ(12,11) = -1600
+Δ(13,12) = -1728
+Δ(14,13) = -1856
+Δ(15,14) = -1984
+
+Second Differences:
+Δ²(3,2,1) = -128
+Δ²(4,3,2) = -128
+Δ²(5,4,3) = -128
+Δ²(6,5,4) = -128
+Δ²(7,6,5) = -128
+Δ²(8,7,6) = -128
+Δ²(9,8,7) = -128
+Δ²(10,9,8) = -128
+Δ²(11,10,9) = -128
+Δ²(12,11,10) = -128
+Δ²(13,12,11) = -128
+Δ²(14,13,12) = -128
+Δ²(15,14,13) = -128
+
+----------------------------------
+
+Matrix #5 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -320
+Scalar 3 => Determinant = -720
+Scalar 4 => Determinant = -1280
+Scalar 5 => Determinant = -2000
+Scalar 6 => Determinant = -2880
+Scalar 7 => Determinant = -3920
+Scalar 8 => Determinant = -5120
+Scalar 9 => Determinant = -6480
+Scalar 10 => Determinant = -8000
+Scalar 11 => Determinant = -9680
+Scalar 12 => Determinant = -11520
+Scalar 13 => Determinant = -13520
+Scalar 14 => Determinant = -15680
+Scalar 15 => Determinant = -18000
+Scalar 16 => Determinant = -20480
+
+First Differences:
+Δ(2,1) = -400
+Δ(3,2) = -560
+Δ(4,3) = -720
+Δ(5,4) = -880
+Δ(6,5) = -1040
+Δ(7,6) = -1200
+Δ(8,7) = -1360
+Δ(9,8) = -1520
+Δ(10,9) = -1680
+Δ(11,10) = -1840
+Δ(12,11) = -2000
+Δ(13,12) = -2160
+Δ(14,13) = -2320
+Δ(15,14) = -2480
+
+Second Differences:
+Δ²(3,2,1) = -160
+Δ²(4,3,2) = -160
+Δ²(5,4,3) = -160
+Δ²(6,5,4) = -160
+Δ²(7,6,5) = -160
+Δ²(8,7,6) = -160
+Δ²(9,8,7) = -160
+Δ²(10,9,8) = -160
+Δ²(11,10,9) = -160
+Δ²(12,11,10) = -160
+Δ²(13,12,11) = -160
+Δ²(14,13,12) = -160
+Δ²(15,14,13) = -160
+
+----------------------------------
+
+Matrix #6 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -384
+Scalar 3 => Determinant = -864
+Scalar 4 => Determinant = -1536
+Scalar 5 => Determinant = -2400
+Scalar 6 => Determinant = -3456
+Scalar 7 => Determinant = -4704
+Scalar 8 => Determinant = -6144
+Scalar 9 => Determinant = -7776
+Scalar 10 => Determinant = -9600
+Scalar 11 => Determinant = -11616
+Scalar 12 => Determinant = -13824
+Scalar 13 => Determinant = -16224
+Scalar 14 => Determinant = -18816
+Scalar 15 => Determinant = -21600
+Scalar 16 => Determinant = -24576
+
+First Differences:
+Δ(2,1) = -480
+Δ(3,2) = -672
+Δ(4,3) = -864
+Δ(5,4) = -1056
+Δ(6,5) = -1248
+Δ(7,6) = -1440
+Δ(8,7) = -1632
+Δ(9,8) = -1824
+Δ(10,9) = -2016
+Δ(11,10) = -2208
+Δ(12,11) = -2400
+Δ(13,12) = -2592
+Δ(14,13) = -2784
+Δ(15,14) = -2976
+
+Second Differences:
+Δ²(3,2,1) = -192
+Δ²(4,3,2) = -192
+Δ²(5,4,3) = -192
+Δ²(6,5,4) = -192
+Δ²(7,6,5) = -192
+Δ²(8,7,6) = -192
+Δ²(9,8,7) = -192
+Δ²(10,9,8) = -192
+Δ²(11,10,9) = -192
+Δ²(12,11,10) = -192
+Δ²(13,12,11) = -192
+Δ²(14,13,12) = -192
+Δ²(15,14,13) = -192
+
+----------------------------------
+
+Matrix #7 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 64
+Scalar 3 => Determinant = 144
+Scalar 4 => Determinant = 256
+Scalar 5 => Determinant = 400
+Scalar 6 => Determinant = 576
+Scalar 7 => Determinant = 784
+Scalar 8 => Determinant = 1024
+Scalar 9 => Determinant = 1296
+Scalar 10 => Determinant = 1600
+Scalar 11 => Determinant = 1936
+Scalar 12 => Determinant = 2304
+Scalar 13 => Determinant = 2704
+Scalar 14 => Determinant = 3136
+Scalar 15 => Determinant = 3600
+Scalar 16 => Determinant = 4096
+
+First Differences:
+Δ(2,1) = 80
+Δ(3,2) = 112
+Δ(4,3) = 144
+Δ(5,4) = 176
+Δ(6,5) = 208
+Δ(7,6) = 240
+Δ(8,7) = 272
+Δ(9,8) = 304
+Δ(10,9) = 336
+Δ(11,10) = 368
+Δ(12,11) = 400
+Δ(13,12) = 432
+Δ(14,13) = 464
+Δ(15,14) = 496
+
+Second Differences:
+Δ²(3,2,1) = 32
+Δ²(4,3,2) = 32
+Δ²(5,4,3) = 32
+Δ²(6,5,4) = 32
+Δ²(7,6,5) = 32
+Δ²(8,7,6) = 32
+Δ²(9,8,7) = 32
+Δ²(10,9,8) = 32
+Δ²(11,10,9) = 32
+Δ²(12,11,10) = 32
+Δ²(13,12,11) = 32
+Δ²(14,13,12) = 32
+Δ²(15,14,13) = 32
+
+----------------------------------
+
+Matrix #8 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -64
+Scalar 3 => Determinant = -144
+Scalar 4 => Determinant = -256
+Scalar 5 => Determinant = -400
+Scalar 6 => Determinant = -576
+Scalar 7 => Determinant = -784
+Scalar 8 => Determinant = -1024
+Scalar 9 => Determinant = -1296
+Scalar 10 => Determinant = -1600
+Scalar 11 => Determinant = -1936
+Scalar 12 => Determinant = -2304
+Scalar 13 => Determinant = -2704
+Scalar 14 => Determinant = -3136
+Scalar 15 => Determinant = -3600
+Scalar 16 => Determinant = -4096
+
+First Differences:
+Δ(2,1) = -80
+Δ(3,2) = -112
+Δ(4,3) = -144
+Δ(5,4) = -176
+Δ(6,5) = -208
+Δ(7,6) = -240
+Δ(8,7) = -272
+Δ(9,8) = -304
+Δ(10,9) = -336
+Δ(11,10) = -368
+Δ(12,11) = -400
+Δ(13,12) = -432
+Δ(14,13) = -464
+Δ(15,14) = -496
+
+Second Differences:
+Δ²(3,2,1) = -32
+Δ²(4,3,2) = -32
+Δ²(5,4,3) = -32
+Δ²(6,5,4) = -32
+Δ²(7,6,5) = -32
+Δ²(8,7,6) = -32
+Δ²(9,8,7) = -32
+Δ²(10,9,8) = -32
+Δ²(11,10,9) = -32
+Δ²(12,11,10) = -32
+Δ²(13,12,11) = -32
+Δ²(14,13,12) = -32
+Δ²(15,14,13) = -32
+
+----------------------------------
+
+Matrix #9 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -128
+Scalar 3 => Determinant = -288
+Scalar 4 => Determinant = -512
+Scalar 5 => Determinant = -800
+Scalar 6 => Determinant = -1152
+Scalar 7 => Determinant = -1568
+Scalar 8 => Determinant = -2048
+Scalar 9 => Determinant = -2592
+Scalar 10 => Determinant = -3200
+Scalar 11 => Determinant = -3872
+Scalar 12 => Determinant = -4608
+Scalar 13 => Determinant = -5408
+Scalar 14 => Determinant = -6272
+Scalar 15 => Determinant = -7200
+Scalar 16 => Determinant = -8192
+
+First Differences:
+Δ(2,1) = -160
+Δ(3,2) = -224
+Δ(4,3) = -288
+Δ(5,4) = -352
+Δ(6,5) = -416
+Δ(7,6) = -480
+Δ(8,7) = -544
+Δ(9,8) = -608
+Δ(10,9) = -672
+Δ(11,10) = -736
+Δ(12,11) = -800
+Δ(13,12) = -864
+Δ(14,13) = -928
+Δ(15,14) = -992
+
+Second Differences:
+Δ²(3,2,1) = -64
+Δ²(4,3,2) = -64
+Δ²(5,4,3) = -64
+Δ²(6,5,4) = -64
+Δ²(7,6,5) = -64
+Δ²(8,7,6) = -64
+Δ²(9,8,7) = -64
+Δ²(10,9,8) = -64
+Δ²(11,10,9) = -64
+Δ²(12,11,10) = -64
+Δ²(13,12,11) = -64
+Δ²(14,13,12) = -64
+Δ²(15,14,13) = -64
+
+----------------------------------
+
+Matrix #10 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -192
+Scalar 3 => Determinant = -432
+Scalar 4 => Determinant = -768
+Scalar 5 => Determinant = -1200
+Scalar 6 => Determinant = -1728
+Scalar 7 => Determinant = -2352
+Scalar 8 => Determinant = -3072
+Scalar 9 => Determinant = -3888
+Scalar 10 => Determinant = -4800
+Scalar 11 => Determinant = -5808
+Scalar 12 => Determinant = -6912
+Scalar 13 => Determinant = -8112
+Scalar 14 => Determinant = -9408
+Scalar 15 => Determinant = -10800
+Scalar 16 => Determinant = -12288
+
+First Differences:
+Δ(2,1) = -240
+Δ(3,2) = -336
+Δ(4,3) = -432
+Δ(5,4) = -528
+Δ(6,5) = -624
+Δ(7,6) = -720
+Δ(8,7) = -816
+Δ(9,8) = -912
+Δ(10,9) = -1008
+Δ(11,10) = -1104
+Δ(12,11) = -1200
+Δ(13,12) = -1296
+Δ(14,13) = -1392
+Δ(15,14) = -1488
+
+Second Differences:
+Δ²(3,2,1) = -96
+Δ²(4,3,2) = -96
+Δ²(5,4,3) = -96
+Δ²(6,5,4) = -96
+Δ²(7,6,5) = -96
+Δ²(8,7,6) = -96
+Δ²(9,8,7) = -96
+Δ²(10,9,8) = -96
+Δ²(11,10,9) = -96
+Δ²(12,11,10) = -96
+Δ²(13,12,11) = -96
+Δ²(14,13,12) = -96
+Δ²(15,14,13) = -96
+
+----------------------------------
+
+Matrix #11 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -256
+Scalar 3 => Determinant = -576
+Scalar 4 => Determinant = -1024
+Scalar 5 => Determinant = -1600
+Scalar 6 => Determinant = -2304
+Scalar 7 => Determinant = -3136
+Scalar 8 => Determinant = -4096
+Scalar 9 => Determinant = -5184
+Scalar 10 => Determinant = -6400
+Scalar 11 => Determinant = -7744
+Scalar 12 => Determinant = -9216
+Scalar 13 => Determinant = -10816
+Scalar 14 => Determinant = -12544
+Scalar 15 => Determinant = -14400
+Scalar 16 => Determinant = -16384
+
+First Differences:
+Δ(2,1) = -320
+Δ(3,2) = -448
+Δ(4,3) = -576
+Δ(5,4) = -704
+Δ(6,5) = -832
+Δ(7,6) = -960
+Δ(8,7) = -1088
+Δ(9,8) = -1216
+Δ(10,9) = -1344
+Δ(11,10) = -1472
+Δ(12,11) = -1600
+Δ(13,12) = -1728
+Δ(14,13) = -1856
+Δ(15,14) = -1984
+
+Second Differences:
+Δ²(3,2,1) = -128
+Δ²(4,3,2) = -128
+Δ²(5,4,3) = -128
+Δ²(6,5,4) = -128
+Δ²(7,6,5) = -128
+Δ²(8,7,6) = -128
+Δ²(9,8,7) = -128
+Δ²(10,9,8) = -128
+Δ²(11,10,9) = -128
+Δ²(12,11,10) = -128
+Δ²(13,12,11) = -128
+Δ²(14,13,12) = -128
+Δ²(15,14,13) = -128
+
+----------------------------------
+
+Matrix #12 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -320
+Scalar 3 => Determinant = -720
+Scalar 4 => Determinant = -1280
+Scalar 5 => Determinant = -2000
+Scalar 6 => Determinant = -2880
+Scalar 7 => Determinant = -3920
+Scalar 8 => Determinant = -5120
+Scalar 9 => Determinant = -6480
+Scalar 10 => Determinant = -8000
+Scalar 11 => Determinant = -9680
+Scalar 12 => Determinant = -11520
+Scalar 13 => Determinant = -13520
+Scalar 14 => Determinant = -15680
+Scalar 15 => Determinant = -18000
+Scalar 16 => Determinant = -20480
+
+First Differences:
+Δ(2,1) = -400
+Δ(3,2) = -560
+Δ(4,3) = -720
+Δ(5,4) = -880
+Δ(6,5) = -1040
+Δ(7,6) = -1200
+Δ(8,7) = -1360
+Δ(9,8) = -1520
+Δ(10,9) = -1680
+Δ(11,10) = -1840
+Δ(12,11) = -2000
+Δ(13,12) = -2160
+Δ(14,13) = -2320
+Δ(15,14) = -2480
+
+Second Differences:
+Δ²(3,2,1) = -160
+Δ²(4,3,2) = -160
+Δ²(5,4,3) = -160
+Δ²(6,5,4) = -160
+Δ²(7,6,5) = -160
+Δ²(8,7,6) = -160
+Δ²(9,8,7) = -160
+Δ²(10,9,8) = -160
+Δ²(11,10,9) = -160
+Δ²(12,11,10) = -160
+Δ²(13,12,11) = -160
+Δ²(14,13,12) = -160
+Δ²(15,14,13) = -160
+
+----------------------------------
+
+Matrix #13 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 128
+Scalar 3 => Determinant = 288
+Scalar 4 => Determinant = 512
+Scalar 5 => Determinant = 800
+Scalar 6 => Determinant = 1152
+Scalar 7 => Determinant = 1568
+Scalar 8 => Determinant = 2048
+Scalar 9 => Determinant = 2592
+Scalar 10 => Determinant = 3200
+Scalar 11 => Determinant = 3872
+Scalar 12 => Determinant = 4608
+Scalar 13 => Determinant = 5408
+Scalar 14 => Determinant = 6272
+Scalar 15 => Determinant = 7200
+Scalar 16 => Determinant = 8192
+
+First Differences:
+Δ(2,1) = 160
+Δ(3,2) = 224
+Δ(4,3) = 288
+Δ(5,4) = 352
+Δ(6,5) = 416
+Δ(7,6) = 480
+Δ(8,7) = 544
+Δ(9,8) = 608
+Δ(10,9) = 672
+Δ(11,10) = 736
+Δ(12,11) = 800
+Δ(13,12) = 864
+Δ(14,13) = 928
+Δ(15,14) = 992
+
+Second Differences:
+Δ²(3,2,1) = 64
+Δ²(4,3,2) = 64
+Δ²(5,4,3) = 64
+Δ²(6,5,4) = 64
+Δ²(7,6,5) = 64
+Δ²(8,7,6) = 64
+Δ²(9,8,7) = 64
+Δ²(10,9,8) = 64
+Δ²(11,10,9) = 64
+Δ²(12,11,10) = 64
+Δ²(13,12,11) = 64
+Δ²(14,13,12) = 64
+Δ²(15,14,13) = 64
+
+----------------------------------
+
+Matrix #14 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 64
+Scalar 3 => Determinant = 144
+Scalar 4 => Determinant = 256
+Scalar 5 => Determinant = 400
+Scalar 6 => Determinant = 576
+Scalar 7 => Determinant = 784
+Scalar 8 => Determinant = 1024
+Scalar 9 => Determinant = 1296
+Scalar 10 => Determinant = 1600
+Scalar 11 => Determinant = 1936
+Scalar 12 => Determinant = 2304
+Scalar 13 => Determinant = 2704
+Scalar 14 => Determinant = 3136
+Scalar 15 => Determinant = 3600
+Scalar 16 => Determinant = 4096
+
+First Differences:
+Δ(2,1) = 80
+Δ(3,2) = 112
+Δ(4,3) = 144
+Δ(5,4) = 176
+Δ(6,5) = 208
+Δ(7,6) = 240
+Δ(8,7) = 272
+Δ(9,8) = 304
+Δ(10,9) = 336
+Δ(11,10) = 368
+Δ(12,11) = 400
+Δ(13,12) = 432
+Δ(14,13) = 464
+Δ(15,14) = 496
+
+Second Differences:
+Δ²(3,2,1) = 32
+Δ²(4,3,2) = 32
+Δ²(5,4,3) = 32
+Δ²(6,5,4) = 32
+Δ²(7,6,5) = 32
+Δ²(8,7,6) = 32
+Δ²(9,8,7) = 32
+Δ²(10,9,8) = 32
+Δ²(11,10,9) = 32
+Δ²(12,11,10) = 32
+Δ²(13,12,11) = 32
+Δ²(14,13,12) = 32
+Δ²(15,14,13) = 32
+
+----------------------------------
+
+Matrix #15 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -64
+Scalar 3 => Determinant = -144
+Scalar 4 => Determinant = -256
+Scalar 5 => Determinant = -400
+Scalar 6 => Determinant = -576
+Scalar 7 => Determinant = -784
+Scalar 8 => Determinant = -1024
+Scalar 9 => Determinant = -1296
+Scalar 10 => Determinant = -1600
+Scalar 11 => Determinant = -1936
+Scalar 12 => Determinant = -2304
+Scalar 13 => Determinant = -2704
+Scalar 14 => Determinant = -3136
+Scalar 15 => Determinant = -3600
+Scalar 16 => Determinant = -4096
+
+First Differences:
+Δ(2,1) = -80
+Δ(3,2) = -112
+Δ(4,3) = -144
+Δ(5,4) = -176
+Δ(6,5) = -208
+Δ(7,6) = -240
+Δ(8,7) = -272
+Δ(9,8) = -304
+Δ(10,9) = -336
+Δ(11,10) = -368
+Δ(12,11) = -400
+Δ(13,12) = -432
+Δ(14,13) = -464
+Δ(15,14) = -496
+
+Second Differences:
+Δ²(3,2,1) = -32
+Δ²(4,3,2) = -32
+Δ²(5,4,3) = -32
+Δ²(6,5,4) = -32
+Δ²(7,6,5) = -32
+Δ²(8,7,6) = -32
+Δ²(9,8,7) = -32
+Δ²(10,9,8) = -32
+Δ²(11,10,9) = -32
+Δ²(12,11,10) = -32
+Δ²(13,12,11) = -32
+Δ²(14,13,12) = -32
+Δ²(15,14,13) = -32
+
+----------------------------------
+
+Matrix #16 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -128
+Scalar 3 => Determinant = -288
+Scalar 4 => Determinant = -512
+Scalar 5 => Determinant = -800
+Scalar 6 => Determinant = -1152
+Scalar 7 => Determinant = -1568
+Scalar 8 => Determinant = -2048
+Scalar 9 => Determinant = -2592
+Scalar 10 => Determinant = -3200
+Scalar 11 => Determinant = -3872
+Scalar 12 => Determinant = -4608
+Scalar 13 => Determinant = -5408
+Scalar 14 => Determinant = -6272
+Scalar 15 => Determinant = -7200
+Scalar 16 => Determinant = -8192
+
+First Differences:
+Δ(2,1) = -160
+Δ(3,2) = -224
+Δ(4,3) = -288
+Δ(5,4) = -352
+Δ(6,5) = -416
+Δ(7,6) = -480
+Δ(8,7) = -544
+Δ(9,8) = -608
+Δ(10,9) = -672
+Δ(11,10) = -736
+Δ(12,11) = -800
+Δ(13,12) = -864
+Δ(14,13) = -928
+Δ(15,14) = -992
+
+Second Differences:
+Δ²(3,2,1) = -64
+Δ²(4,3,2) = -64
+Δ²(5,4,3) = -64
+Δ²(6,5,4) = -64
+Δ²(7,6,5) = -64
+Δ²(8,7,6) = -64
+Δ²(9,8,7) = -64
+Δ²(10,9,8) = -64
+Δ²(11,10,9) = -64
+Δ²(12,11,10) = -64
+Δ²(13,12,11) = -64
+Δ²(14,13,12) = -64
+Δ²(15,14,13) = -64
+
+----------------------------------
+
+Matrix #17 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -192
+Scalar 3 => Determinant = -432
+Scalar 4 => Determinant = -768
+Scalar 5 => Determinant = -1200
+Scalar 6 => Determinant = -1728
+Scalar 7 => Determinant = -2352
+Scalar 8 => Determinant = -3072
+Scalar 9 => Determinant = -3888
+Scalar 10 => Determinant = -4800
+Scalar 11 => Determinant = -5808
+Scalar 12 => Determinant = -6912
+Scalar 13 => Determinant = -8112
+Scalar 14 => Determinant = -9408
+Scalar 15 => Determinant = -10800
+Scalar 16 => Determinant = -12288
+
+First Differences:
+Δ(2,1) = -240
+Δ(3,2) = -336
+Δ(4,3) = -432
+Δ(5,4) = -528
+Δ(6,5) = -624
+Δ(7,6) = -720
+Δ(8,7) = -816
+Δ(9,8) = -912
+Δ(10,9) = -1008
+Δ(11,10) = -1104
+Δ(12,11) = -1200
+Δ(13,12) = -1296
+Δ(14,13) = -1392
+Δ(15,14) = -1488
+
+Second Differences:
+Δ²(3,2,1) = -96
+Δ²(4,3,2) = -96
+Δ²(5,4,3) = -96
+Δ²(6,5,4) = -96
+Δ²(7,6,5) = -96
+Δ²(8,7,6) = -96
+Δ²(9,8,7) = -96
+Δ²(10,9,8) = -96
+Δ²(11,10,9) = -96
+Δ²(12,11,10) = -96
+Δ²(13,12,11) = -96
+Δ²(14,13,12) = -96
+Δ²(15,14,13) = -96
+
+----------------------------------
+
+Matrix #18 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -256
+Scalar 3 => Determinant = -576
+Scalar 4 => Determinant = -1024
+Scalar 5 => Determinant = -1600
+Scalar 6 => Determinant = -2304
+Scalar 7 => Determinant = -3136
+Scalar 8 => Determinant = -4096
+Scalar 9 => Determinant = -5184
+Scalar 10 => Determinant = -6400
+Scalar 11 => Determinant = -7744
+Scalar 12 => Determinant = -9216
+Scalar 13 => Determinant = -10816
+Scalar 14 => Determinant = -12544
+Scalar 15 => Determinant = -14400
+Scalar 16 => Determinant = -16384
+
+First Differences:
+Δ(2,1) = -320
+Δ(3,2) = -448
+Δ(4,3) = -576
+Δ(5,4) = -704
+Δ(6,5) = -832
+Δ(7,6) = -960
+Δ(8,7) = -1088
+Δ(9,8) = -1216
+Δ(10,9) = -1344
+Δ(11,10) = -1472
+Δ(12,11) = -1600
+Δ(13,12) = -1728
+Δ(14,13) = -1856
+Δ(15,14) = -1984
+
+Second Differences:
+Δ²(3,2,1) = -128
+Δ²(4,3,2) = -128
+Δ²(5,4,3) = -128
+Δ²(6,5,4) = -128
+Δ²(7,6,5) = -128
+Δ²(8,7,6) = -128
+Δ²(9,8,7) = -128
+Δ²(10,9,8) = -128
+Δ²(11,10,9) = -128
+Δ²(12,11,10) = -128
+Δ²(13,12,11) = -128
+Δ²(14,13,12) = -128
+Δ²(15,14,13) = -128
+
+----------------------------------
+
+Matrix #19 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 192
+Scalar 3 => Determinant = 432
+Scalar 4 => Determinant = 768
+Scalar 5 => Determinant = 1200
+Scalar 6 => Determinant = 1728
+Scalar 7 => Determinant = 2352
+Scalar 8 => Determinant = 3072
+Scalar 9 => Determinant = 3888
+Scalar 10 => Determinant = 4800
+Scalar 11 => Determinant = 5808
+Scalar 12 => Determinant = 6912
+Scalar 13 => Determinant = 8112
+Scalar 14 => Determinant = 9408
+Scalar 15 => Determinant = 10800
+Scalar 16 => Determinant = 12288
+
+First Differences:
+Δ(2,1) = 240
+Δ(3,2) = 336
+Δ(4,3) = 432
+Δ(5,4) = 528
+Δ(6,5) = 624
+Δ(7,6) = 720
+Δ(8,7) = 816
+Δ(9,8) = 912
+Δ(10,9) = 1008
+Δ(11,10) = 1104
+Δ(12,11) = 1200
+Δ(13,12) = 1296
+Δ(14,13) = 1392
+Δ(15,14) = 1488
+
+Second Differences:
+Δ²(3,2,1) = 96
+Δ²(4,3,2) = 96
+Δ²(5,4,3) = 96
+Δ²(6,5,4) = 96
+Δ²(7,6,5) = 96
+Δ²(8,7,6) = 96
+Δ²(9,8,7) = 96
+Δ²(10,9,8) = 96
+Δ²(11,10,9) = 96
+Δ²(12,11,10) = 96
+Δ²(13,12,11) = 96
+Δ²(14,13,12) = 96
+Δ²(15,14,13) = 96
+
+----------------------------------
+
+Matrix #20 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 128
+Scalar 3 => Determinant = 288
+Scalar 4 => Determinant = 512
+Scalar 5 => Determinant = 800
+Scalar 6 => Determinant = 1152
+Scalar 7 => Determinant = 1568
+Scalar 8 => Determinant = 2048
+Scalar 9 => Determinant = 2592
+Scalar 10 => Determinant = 3200
+Scalar 11 => Determinant = 3872
+Scalar 12 => Determinant = 4608
+Scalar 13 => Determinant = 5408
+Scalar 14 => Determinant = 6272
+Scalar 15 => Determinant = 7200
+Scalar 16 => Determinant = 8192
+
+First Differences:
+Δ(2,1) = 160
+Δ(3,2) = 224
+Δ(4,3) = 288
+Δ(5,4) = 352
+Δ(6,5) = 416
+Δ(7,6) = 480
+Δ(8,7) = 544
+Δ(9,8) = 608
+Δ(10,9) = 672
+Δ(11,10) = 736
+Δ(12,11) = 800
+Δ(13,12) = 864
+Δ(14,13) = 928
+Δ(15,14) = 992
+
+Second Differences:
+Δ²(3,2,1) = 64
+Δ²(4,3,2) = 64
+Δ²(5,4,3) = 64
+Δ²(6,5,4) = 64
+Δ²(7,6,5) = 64
+Δ²(8,7,6) = 64
+Δ²(9,8,7) = 64
+Δ²(10,9,8) = 64
+Δ²(11,10,9) = 64
+Δ²(12,11,10) = 64
+Δ²(13,12,11) = 64
+Δ²(14,13,12) = 64
+Δ²(15,14,13) = 64
+
+----------------------------------
+
+Matrix #21 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 64
+Scalar 3 => Determinant = 144
+Scalar 4 => Determinant = 256
+Scalar 5 => Determinant = 400
+Scalar 6 => Determinant = 576
+Scalar 7 => Determinant = 784
+Scalar 8 => Determinant = 1024
+Scalar 9 => Determinant = 1296
+Scalar 10 => Determinant = 1600
+Scalar 11 => Determinant = 1936
+Scalar 12 => Determinant = 2304
+Scalar 13 => Determinant = 2704
+Scalar 14 => Determinant = 3136
+Scalar 15 => Determinant = 3600
+Scalar 16 => Determinant = 4096
+
+First Differences:
+Δ(2,1) = 80
+Δ(3,2) = 112
+Δ(4,3) = 144
+Δ(5,4) = 176
+Δ(6,5) = 208
+Δ(7,6) = 240
+Δ(8,7) = 272
+Δ(9,8) = 304
+Δ(10,9) = 336
+Δ(11,10) = 368
+Δ(12,11) = 400
+Δ(13,12) = 432
+Δ(14,13) = 464
+Δ(15,14) = 496
+
+Second Differences:
+Δ²(3,2,1) = 32
+Δ²(4,3,2) = 32
+Δ²(5,4,3) = 32
+Δ²(6,5,4) = 32
+Δ²(7,6,5) = 32
+Δ²(8,7,6) = 32
+Δ²(9,8,7) = 32
+Δ²(10,9,8) = 32
+Δ²(11,10,9) = 32
+Δ²(12,11,10) = 32
+Δ²(13,12,11) = 32
+Δ²(14,13,12) = 32
+Δ²(15,14,13) = 32
+
+----------------------------------
+
+Matrix #22 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -64
+Scalar 3 => Determinant = -144
+Scalar 4 => Determinant = -256
+Scalar 5 => Determinant = -400
+Scalar 6 => Determinant = -576
+Scalar 7 => Determinant = -784
+Scalar 8 => Determinant = -1024
+Scalar 9 => Determinant = -1296
+Scalar 10 => Determinant = -1600
+Scalar 11 => Determinant = -1936
+Scalar 12 => Determinant = -2304
+Scalar 13 => Determinant = -2704
+Scalar 14 => Determinant = -3136
+Scalar 15 => Determinant = -3600
+Scalar 16 => Determinant = -4096
+
+First Differences:
+Δ(2,1) = -80
+Δ(3,2) = -112
+Δ(4,3) = -144
+Δ(5,4) = -176
+Δ(6,5) = -208
+Δ(7,6) = -240
+Δ(8,7) = -272
+Δ(9,8) = -304
+Δ(10,9) = -336
+Δ(11,10) = -368
+Δ(12,11) = -400
+Δ(13,12) = -432
+Δ(14,13) = -464
+Δ(15,14) = -496
+
+Second Differences:
+Δ²(3,2,1) = -32
+Δ²(4,3,2) = -32
+Δ²(5,4,3) = -32
+Δ²(6,5,4) = -32
+Δ²(7,6,5) = -32
+Δ²(8,7,6) = -32
+Δ²(9,8,7) = -32
+Δ²(10,9,8) = -32
+Δ²(11,10,9) = -32
+Δ²(12,11,10) = -32
+Δ²(13,12,11) = -32
+Δ²(14,13,12) = -32
+Δ²(15,14,13) = -32
+
+----------------------------------
+
+Matrix #23 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -128
+Scalar 3 => Determinant = -288
+Scalar 4 => Determinant = -512
+Scalar 5 => Determinant = -800
+Scalar 6 => Determinant = -1152
+Scalar 7 => Determinant = -1568
+Scalar 8 => Determinant = -2048
+Scalar 9 => Determinant = -2592
+Scalar 10 => Determinant = -3200
+Scalar 11 => Determinant = -3872
+Scalar 12 => Determinant = -4608
+Scalar 13 => Determinant = -5408
+Scalar 14 => Determinant = -6272
+Scalar 15 => Determinant = -7200
+Scalar 16 => Determinant = -8192
+
+First Differences:
+Δ(2,1) = -160
+Δ(3,2) = -224
+Δ(4,3) = -288
+Δ(5,4) = -352
+Δ(6,5) = -416
+Δ(7,6) = -480
+Δ(8,7) = -544
+Δ(9,8) = -608
+Δ(10,9) = -672
+Δ(11,10) = -736
+Δ(12,11) = -800
+Δ(13,12) = -864
+Δ(14,13) = -928
+Δ(15,14) = -992
+
+Second Differences:
+Δ²(3,2,1) = -64
+Δ²(4,3,2) = -64
+Δ²(5,4,3) = -64
+Δ²(6,5,4) = -64
+Δ²(7,6,5) = -64
+Δ²(8,7,6) = -64
+Δ²(9,8,7) = -64
+Δ²(10,9,8) = -64
+Δ²(11,10,9) = -64
+Δ²(12,11,10) = -64
+Δ²(13,12,11) = -64
+Δ²(14,13,12) = -64
+Δ²(15,14,13) = -64
+
+----------------------------------
+
+Matrix #24 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -192
+Scalar 3 => Determinant = -432
+Scalar 4 => Determinant = -768
+Scalar 5 => Determinant = -1200
+Scalar 6 => Determinant = -1728
+Scalar 7 => Determinant = -2352
+Scalar 8 => Determinant = -3072
+Scalar 9 => Determinant = -3888
+Scalar 10 => Determinant = -4800
+Scalar 11 => Determinant = -5808
+Scalar 12 => Determinant = -6912
+Scalar 13 => Determinant = -8112
+Scalar 14 => Determinant = -9408
+Scalar 15 => Determinant = -10800
+Scalar 16 => Determinant = -12288
+
+First Differences:
+Δ(2,1) = -240
+Δ(3,2) = -336
+Δ(4,3) = -432
+Δ(5,4) = -528
+Δ(6,5) = -624
+Δ(7,6) = -720
+Δ(8,7) = -816
+Δ(9,8) = -912
+Δ(10,9) = -1008
+Δ(11,10) = -1104
+Δ(12,11) = -1200
+Δ(13,12) = -1296
+Δ(14,13) = -1392
+Δ(15,14) = -1488
+
+Second Differences:
+Δ²(3,2,1) = -96
+Δ²(4,3,2) = -96
+Δ²(5,4,3) = -96
+Δ²(6,5,4) = -96
+Δ²(7,6,5) = -96
+Δ²(8,7,6) = -96
+Δ²(9,8,7) = -96
+Δ²(10,9,8) = -96
+Δ²(11,10,9) = -96
+Δ²(12,11,10) = -96
+Δ²(13,12,11) = -96
+Δ²(14,13,12) = -96
+Δ²(15,14,13) = -96
+
+----------------------------------
+
+Matrix #25 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 256
+Scalar 3 => Determinant = 576
+Scalar 4 => Determinant = 1024
+Scalar 5 => Determinant = 1600
+Scalar 6 => Determinant = 2304
+Scalar 7 => Determinant = 3136
+Scalar 8 => Determinant = 4096
+Scalar 9 => Determinant = 5184
+Scalar 10 => Determinant = 6400
+Scalar 11 => Determinant = 7744
+Scalar 12 => Determinant = 9216
+Scalar 13 => Determinant = 10816
+Scalar 14 => Determinant = 12544
+Scalar 15 => Determinant = 14400
+Scalar 16 => Determinant = 16384
+
+First Differences:
+Δ(2,1) = 320
+Δ(3,2) = 448
+Δ(4,3) = 576
+Δ(5,4) = 704
+Δ(6,5) = 832
+Δ(7,6) = 960
+Δ(8,7) = 1088
+Δ(9,8) = 1216
+Δ(10,9) = 1344
+Δ(11,10) = 1472
+Δ(12,11) = 1600
+Δ(13,12) = 1728
+Δ(14,13) = 1856
+Δ(15,14) = 1984
+
+Second Differences:
+Δ²(3,2,1) = 128
+Δ²(4,3,2) = 128
+Δ²(5,4,3) = 128
+Δ²(6,5,4) = 128
+Δ²(7,6,5) = 128
+Δ²(8,7,6) = 128
+Δ²(9,8,7) = 128
+Δ²(10,9,8) = 128
+Δ²(11,10,9) = 128
+Δ²(12,11,10) = 128
+Δ²(13,12,11) = 128
+Δ²(14,13,12) = 128
+Δ²(15,14,13) = 128
+
+----------------------------------
+
+Matrix #26 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 192
+Scalar 3 => Determinant = 432
+Scalar 4 => Determinant = 768
+Scalar 5 => Determinant = 1200
+Scalar 6 => Determinant = 1728
+Scalar 7 => Determinant = 2352
+Scalar 8 => Determinant = 3072
+Scalar 9 => Determinant = 3888
+Scalar 10 => Determinant = 4800
+Scalar 11 => Determinant = 5808
+Scalar 12 => Determinant = 6912
+Scalar 13 => Determinant = 8112
+Scalar 14 => Determinant = 9408
+Scalar 15 => Determinant = 10800
+Scalar 16 => Determinant = 12288
+
+First Differences:
+Δ(2,1) = 240
+Δ(3,2) = 336
+Δ(4,3) = 432
+Δ(5,4) = 528
+Δ(6,5) = 624
+Δ(7,6) = 720
+Δ(8,7) = 816
+Δ(9,8) = 912
+Δ(10,9) = 1008
+Δ(11,10) = 1104
+Δ(12,11) = 1200
+Δ(13,12) = 1296
+Δ(14,13) = 1392
+Δ(15,14) = 1488
+
+Second Differences:
+Δ²(3,2,1) = 96
+Δ²(4,3,2) = 96
+Δ²(5,4,3) = 96
+Δ²(6,5,4) = 96
+Δ²(7,6,5) = 96
+Δ²(8,7,6) = 96
+Δ²(9,8,7) = 96
+Δ²(10,9,8) = 96
+Δ²(11,10,9) = 96
+Δ²(12,11,10) = 96
+Δ²(13,12,11) = 96
+Δ²(14,13,12) = 96
+Δ²(15,14,13) = 96
+
+----------------------------------
+
+Matrix #27 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 128
+Scalar 3 => Determinant = 288
+Scalar 4 => Determinant = 512
+Scalar 5 => Determinant = 800
+Scalar 6 => Determinant = 1152
+Scalar 7 => Determinant = 1568
+Scalar 8 => Determinant = 2048
+Scalar 9 => Determinant = 2592
+Scalar 10 => Determinant = 3200
+Scalar 11 => Determinant = 3872
+Scalar 12 => Determinant = 4608
+Scalar 13 => Determinant = 5408
+Scalar 14 => Determinant = 6272
+Scalar 15 => Determinant = 7200
+Scalar 16 => Determinant = 8192
+
+First Differences:
+Δ(2,1) = 160
+Δ(3,2) = 224
+Δ(4,3) = 288
+Δ(5,4) = 352
+Δ(6,5) = 416
+Δ(7,6) = 480
+Δ(8,7) = 544
+Δ(9,8) = 608
+Δ(10,9) = 672
+Δ(11,10) = 736
+Δ(12,11) = 800
+Δ(13,12) = 864
+Δ(14,13) = 928
+Δ(15,14) = 992
+
+Second Differences:
+Δ²(3,2,1) = 64
+Δ²(4,3,2) = 64
+Δ²(5,4,3) = 64
+Δ²(6,5,4) = 64
+Δ²(7,6,5) = 64
+Δ²(8,7,6) = 64
+Δ²(9,8,7) = 64
+Δ²(10,9,8) = 64
+Δ²(11,10,9) = 64
+Δ²(12,11,10) = 64
+Δ²(13,12,11) = 64
+Δ²(14,13,12) = 64
+Δ²(15,14,13) = 64
+
+----------------------------------
+
+Matrix #28 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 64
+Scalar 3 => Determinant = 144
+Scalar 4 => Determinant = 256
+Scalar 5 => Determinant = 400
+Scalar 6 => Determinant = 576
+Scalar 7 => Determinant = 784
+Scalar 8 => Determinant = 1024
+Scalar 9 => Determinant = 1296
+Scalar 10 => Determinant = 1600
+Scalar 11 => Determinant = 1936
+Scalar 12 => Determinant = 2304
+Scalar 13 => Determinant = 2704
+Scalar 14 => Determinant = 3136
+Scalar 15 => Determinant = 3600
+Scalar 16 => Determinant = 4096
+
+First Differences:
+Δ(2,1) = 80
+Δ(3,2) = 112
+Δ(4,3) = 144
+Δ(5,4) = 176
+Δ(6,5) = 208
+Δ(7,6) = 240
+Δ(8,7) = 272
+Δ(9,8) = 304
+Δ(10,9) = 336
+Δ(11,10) = 368
+Δ(12,11) = 400
+Δ(13,12) = 432
+Δ(14,13) = 464
+Δ(15,14) = 496
+
+Second Differences:
+Δ²(3,2,1) = 32
+Δ²(4,3,2) = 32
+Δ²(5,4,3) = 32
+Δ²(6,5,4) = 32
+Δ²(7,6,5) = 32
+Δ²(8,7,6) = 32
+Δ²(9,8,7) = 32
+Δ²(10,9,8) = 32
+Δ²(11,10,9) = 32
+Δ²(12,11,10) = 32
+Δ²(13,12,11) = 32
+Δ²(14,13,12) = 32
+Δ²(15,14,13) = 32
+
+----------------------------------
+
+Matrix #29 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -64
+Scalar 3 => Determinant = -144
+Scalar 4 => Determinant = -256
+Scalar 5 => Determinant = -400
+Scalar 6 => Determinant = -576
+Scalar 7 => Determinant = -784
+Scalar 8 => Determinant = -1024
+Scalar 9 => Determinant = -1296
+Scalar 10 => Determinant = -1600
+Scalar 11 => Determinant = -1936
+Scalar 12 => Determinant = -2304
+Scalar 13 => Determinant = -2704
+Scalar 14 => Determinant = -3136
+Scalar 15 => Determinant = -3600
+Scalar 16 => Determinant = -4096
+
+First Differences:
+Δ(2,1) = -80
+Δ(3,2) = -112
+Δ(4,3) = -144
+Δ(5,4) = -176
+Δ(6,5) = -208
+Δ(7,6) = -240
+Δ(8,7) = -272
+Δ(9,8) = -304
+Δ(10,9) = -336
+Δ(11,10) = -368
+Δ(12,11) = -400
+Δ(13,12) = -432
+Δ(14,13) = -464
+Δ(15,14) = -496
+
+Second Differences:
+Δ²(3,2,1) = -32
+Δ²(4,3,2) = -32
+Δ²(5,4,3) = -32
+Δ²(6,5,4) = -32
+Δ²(7,6,5) = -32
+Δ²(8,7,6) = -32
+Δ²(9,8,7) = -32
+Δ²(10,9,8) = -32
+Δ²(11,10,9) = -32
+Δ²(12,11,10) = -32
+Δ²(13,12,11) = -32
+Δ²(14,13,12) = -32
+Δ²(15,14,13) = -32
+
+----------------------------------
+
+Matrix #30 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -128
+Scalar 3 => Determinant = -288
+Scalar 4 => Determinant = -512
+Scalar 5 => Determinant = -800
+Scalar 6 => Determinant = -1152
+Scalar 7 => Determinant = -1568
+Scalar 8 => Determinant = -2048
+Scalar 9 => Determinant = -2592
+Scalar 10 => Determinant = -3200
+Scalar 11 => Determinant = -3872
+Scalar 12 => Determinant = -4608
+Scalar 13 => Determinant = -5408
+Scalar 14 => Determinant = -6272
+Scalar 15 => Determinant = -7200
+Scalar 16 => Determinant = -8192
+
+First Differences:
+Δ(2,1) = -160
+Δ(3,2) = -224
+Δ(4,3) = -288
+Δ(5,4) = -352
+Δ(6,5) = -416
+Δ(7,6) = -480
+Δ(8,7) = -544
+Δ(9,8) = -608
+Δ(10,9) = -672
+Δ(11,10) = -736
+Δ(12,11) = -800
+Δ(13,12) = -864
+Δ(14,13) = -928
+Δ(15,14) = -992
+
+Second Differences:
+Δ²(3,2,1) = -64
+Δ²(4,3,2) = -64
+Δ²(5,4,3) = -64
+Δ²(6,5,4) = -64
+Δ²(7,6,5) = -64
+Δ²(8,7,6) = -64
+Δ²(9,8,7) = -64
+Δ²(10,9,8) = -64
+Δ²(11,10,9) = -64
+Δ²(12,11,10) = -64
+Δ²(13,12,11) = -64
+Δ²(14,13,12) = -64
+Δ²(15,14,13) = -64
+
+----------------------------------
+
+Matrix #31 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 320
+Scalar 3 => Determinant = 720
+Scalar 4 => Determinant = 1280
+Scalar 5 => Determinant = 2000
+Scalar 6 => Determinant = 2880
+Scalar 7 => Determinant = 3920
+Scalar 8 => Determinant = 5120
+Scalar 9 => Determinant = 6480
+Scalar 10 => Determinant = 8000
+Scalar 11 => Determinant = 9680
+Scalar 12 => Determinant = 11520
+Scalar 13 => Determinant = 13520
+Scalar 14 => Determinant = 15680
+Scalar 15 => Determinant = 18000
+Scalar 16 => Determinant = 20480
+
+First Differences:
+Δ(2,1) = 400
+Δ(3,2) = 560
+Δ(4,3) = 720
+Δ(5,4) = 880
+Δ(6,5) = 1040
+Δ(7,6) = 1200
+Δ(8,7) = 1360
+Δ(9,8) = 1520
+Δ(10,9) = 1680
+Δ(11,10) = 1840
+Δ(12,11) = 2000
+Δ(13,12) = 2160
+Δ(14,13) = 2320
+Δ(15,14) = 2480
+
+Second Differences:
+Δ²(3,2,1) = 160
+Δ²(4,3,2) = 160
+Δ²(5,4,3) = 160
+Δ²(6,5,4) = 160
+Δ²(7,6,5) = 160
+Δ²(8,7,6) = 160
+Δ²(9,8,7) = 160
+Δ²(10,9,8) = 160
+Δ²(11,10,9) = 160
+Δ²(12,11,10) = 160
+Δ²(13,12,11) = 160
+Δ²(14,13,12) = 160
+Δ²(15,14,13) = 160
+
+----------------------------------
+
+Matrix #32 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 256
+Scalar 3 => Determinant = 576
+Scalar 4 => Determinant = 1024
+Scalar 5 => Determinant = 1600
+Scalar 6 => Determinant = 2304
+Scalar 7 => Determinant = 3136
+Scalar 8 => Determinant = 4096
+Scalar 9 => Determinant = 5184
+Scalar 10 => Determinant = 6400
+Scalar 11 => Determinant = 7744
+Scalar 12 => Determinant = 9216
+Scalar 13 => Determinant = 10816
+Scalar 14 => Determinant = 12544
+Scalar 15 => Determinant = 14400
+Scalar 16 => Determinant = 16384
+
+First Differences:
+Δ(2,1) = 320
+Δ(3,2) = 448
+Δ(4,3) = 576
+Δ(5,4) = 704
+Δ(6,5) = 832
+Δ(7,6) = 960
+Δ(8,7) = 1088
+Δ(9,8) = 1216
+Δ(10,9) = 1344
+Δ(11,10) = 1472
+Δ(12,11) = 1600
+Δ(13,12) = 1728
+Δ(14,13) = 1856
+Δ(15,14) = 1984
+
+Second Differences:
+Δ²(3,2,1) = 128
+Δ²(4,3,2) = 128
+Δ²(5,4,3) = 128
+Δ²(6,5,4) = 128
+Δ²(7,6,5) = 128
+Δ²(8,7,6) = 128
+Δ²(9,8,7) = 128
+Δ²(10,9,8) = 128
+Δ²(11,10,9) = 128
+Δ²(12,11,10) = 128
+Δ²(13,12,11) = 128
+Δ²(14,13,12) = 128
+Δ²(15,14,13) = 128
+
+----------------------------------
+
+Matrix #33 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 192
+Scalar 3 => Determinant = 432
+Scalar 4 => Determinant = 768
+Scalar 5 => Determinant = 1200
+Scalar 6 => Determinant = 1728
+Scalar 7 => Determinant = 2352
+Scalar 8 => Determinant = 3072
+Scalar 9 => Determinant = 3888
+Scalar 10 => Determinant = 4800
+Scalar 11 => Determinant = 5808
+Scalar 12 => Determinant = 6912
+Scalar 13 => Determinant = 8112
+Scalar 14 => Determinant = 9408
+Scalar 15 => Determinant = 10800
+Scalar 16 => Determinant = 12288
+
+First Differences:
+Δ(2,1) = 240
+Δ(3,2) = 336
+Δ(4,3) = 432
+Δ(5,4) = 528
+Δ(6,5) = 624
+Δ(7,6) = 720
+Δ(8,7) = 816
+Δ(9,8) = 912
+Δ(10,9) = 1008
+Δ(11,10) = 1104
+Δ(12,11) = 1200
+Δ(13,12) = 1296
+Δ(14,13) = 1392
+Δ(15,14) = 1488
+
+Second Differences:
+Δ²(3,2,1) = 96
+Δ²(4,3,2) = 96
+Δ²(5,4,3) = 96
+Δ²(6,5,4) = 96
+Δ²(7,6,5) = 96
+Δ²(8,7,6) = 96
+Δ²(9,8,7) = 96
+Δ²(10,9,8) = 96
+Δ²(11,10,9) = 96
+Δ²(12,11,10) = 96
+Δ²(13,12,11) = 96
+Δ²(14,13,12) = 96
+Δ²(15,14,13) = 96
+
+----------------------------------
+
+Matrix #34 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 128
+Scalar 3 => Determinant = 288
+Scalar 4 => Determinant = 512
+Scalar 5 => Determinant = 800
+Scalar 6 => Determinant = 1152
+Scalar 7 => Determinant = 1568
+Scalar 8 => Determinant = 2048
+Scalar 9 => Determinant = 2592
+Scalar 10 => Determinant = 3200
+Scalar 11 => Determinant = 3872
+Scalar 12 => Determinant = 4608
+Scalar 13 => Determinant = 5408
+Scalar 14 => Determinant = 6272
+Scalar 15 => Determinant = 7200
+Scalar 16 => Determinant = 8192
+
+First Differences:
+Δ(2,1) = 160
+Δ(3,2) = 224
+Δ(4,3) = 288
+Δ(5,4) = 352
+Δ(6,5) = 416
+Δ(7,6) = 480
+Δ(8,7) = 544
+Δ(9,8) = 608
+Δ(10,9) = 672
+Δ(11,10) = 736
+Δ(12,11) = 800
+Δ(13,12) = 864
+Δ(14,13) = 928
+Δ(15,14) = 992
+
+Second Differences:
+Δ²(3,2,1) = 64
+Δ²(4,3,2) = 64
+Δ²(5,4,3) = 64
+Δ²(6,5,4) = 64
+Δ²(7,6,5) = 64
+Δ²(8,7,6) = 64
+Δ²(9,8,7) = 64
+Δ²(10,9,8) = 64
+Δ²(11,10,9) = 64
+Δ²(12,11,10) = 64
+Δ²(13,12,11) = 64
+Δ²(14,13,12) = 64
+Δ²(15,14,13) = 64
+
+----------------------------------
+
+Matrix #35 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 64
+Scalar 3 => Determinant = 144
+Scalar 4 => Determinant = 256
+Scalar 5 => Determinant = 400
+Scalar 6 => Determinant = 576
+Scalar 7 => Determinant = 784
+Scalar 8 => Determinant = 1024
+Scalar 9 => Determinant = 1296
+Scalar 10 => Determinant = 1600
+Scalar 11 => Determinant = 1936
+Scalar 12 => Determinant = 2304
+Scalar 13 => Determinant = 2704
+Scalar 14 => Determinant = 3136
+Scalar 15 => Determinant = 3600
+Scalar 16 => Determinant = 4096
+
+First Differences:
+Δ(2,1) = 80
+Δ(3,2) = 112
+Δ(4,3) = 144
+Δ(5,4) = 176
+Δ(6,5) = 208
+Δ(7,6) = 240
+Δ(8,7) = 272
+Δ(9,8) = 304
+Δ(10,9) = 336
+Δ(11,10) = 368
+Δ(12,11) = 400
+Δ(13,12) = 432
+Δ(14,13) = 464
+Δ(15,14) = 496
+
+Second Differences:
+Δ²(3,2,1) = 32
+Δ²(4,3,2) = 32
+Δ²(5,4,3) = 32
+Δ²(6,5,4) = 32
+Δ²(7,6,5) = 32
+Δ²(8,7,6) = 32
+Δ²(9,8,7) = 32
+Δ²(10,9,8) = 32
+Δ²(11,10,9) = 32
+Δ²(12,11,10) = 32
+Δ²(13,12,11) = 32
+Δ²(14,13,12) = 32
+Δ²(15,14,13) = 32
+
+----------------------------------
+
+Matrix #36 (2x2)
+----------------------------------
+Scalar 2 => Determinant = -64
+Scalar 3 => Determinant = -144
+Scalar 4 => Determinant = -256
+Scalar 5 => Determinant = -400
+Scalar 6 => Determinant = -576
+Scalar 7 => Determinant = -784
+Scalar 8 => Determinant = -1024
+Scalar 9 => Determinant = -1296
+Scalar 10 => Determinant = -1600
+Scalar 11 => Determinant = -1936
+Scalar 12 => Determinant = -2304
+Scalar 13 => Determinant = -2704
+Scalar 14 => Determinant = -3136
+Scalar 15 => Determinant = -3600
+Scalar 16 => Determinant = -4096
+
+First Differences:
+Δ(2,1) = -80
+Δ(3,2) = -112
+Δ(4,3) = -144
+Δ(5,4) = -176
+Δ(6,5) = -208
+Δ(7,6) = -240
+Δ(8,7) = -272
+Δ(9,8) = -304
+Δ(10,9) = -336
+Δ(11,10) = -368
+Δ(12,11) = -400
+Δ(13,12) = -432
+Δ(14,13) = -464
+Δ(15,14) = -496
+
+Second Differences:
+Δ²(3,2,1) = -32
+Δ²(4,3,2) = -32
+Δ²(5,4,3) = -32
+Δ²(6,5,4) = -32
+Δ²(7,6,5) = -32
+Δ²(8,7,6) = -32
+Δ²(9,8,7) = -32
+Δ²(10,9,8) = -32
+Δ²(11,10,9) = -32
+Δ²(12,11,10) = -32
+Δ²(13,12,11) = -32
+Δ²(14,13,12) = -32
+Δ²(15,14,13) = -32
+
+----------------------------------
+
+Matrix #37 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 384
+Scalar 3 => Determinant = 864
+Scalar 4 => Determinant = 1536
+Scalar 5 => Determinant = 2400
+Scalar 6 => Determinant = 3456
+Scalar 7 => Determinant = 4704
+Scalar 8 => Determinant = 6144
+Scalar 9 => Determinant = 7776
+Scalar 10 => Determinant = 9600
+Scalar 11 => Determinant = 11616
+Scalar 12 => Determinant = 13824
+Scalar 13 => Determinant = 16224
+Scalar 14 => Determinant = 18816
+Scalar 15 => Determinant = 21600
+Scalar 16 => Determinant = 24576
+
+First Differences:
+Δ(2,1) = 480
+Δ(3,2) = 672
+Δ(4,3) = 864
+Δ(5,4) = 1056
+Δ(6,5) = 1248
+Δ(7,6) = 1440
+Δ(8,7) = 1632
+Δ(9,8) = 1824
+Δ(10,9) = 2016
+Δ(11,10) = 2208
+Δ(12,11) = 2400
+Δ(13,12) = 2592
+Δ(14,13) = 2784
+Δ(15,14) = 2976
+
+Second Differences:
+Δ²(3,2,1) = 192
+Δ²(4,3,2) = 192
+Δ²(5,4,3) = 192
+Δ²(6,5,4) = 192
+Δ²(7,6,5) = 192
+Δ²(8,7,6) = 192
+Δ²(9,8,7) = 192
+Δ²(10,9,8) = 192
+Δ²(11,10,9) = 192
+Δ²(12,11,10) = 192
+Δ²(13,12,11) = 192
+Δ²(14,13,12) = 192
+Δ²(15,14,13) = 192
+
+----------------------------------
+
+Matrix #38 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 320
+Scalar 3 => Determinant = 720
+Scalar 4 => Determinant = 1280
+Scalar 5 => Determinant = 2000
+Scalar 6 => Determinant = 2880
+Scalar 7 => Determinant = 3920
+Scalar 8 => Determinant = 5120
+Scalar 9 => Determinant = 6480
+Scalar 10 => Determinant = 8000
+Scalar 11 => Determinant = 9680
+Scalar 12 => Determinant = 11520
+Scalar 13 => Determinant = 13520
+Scalar 14 => Determinant = 15680
+Scalar 15 => Determinant = 18000
+Scalar 16 => Determinant = 20480
+
+First Differences:
+Δ(2,1) = 400
+Δ(3,2) = 560
+Δ(4,3) = 720
+Δ(5,4) = 880
+Δ(6,5) = 1040
+Δ(7,6) = 1200
+Δ(8,7) = 1360
+Δ(9,8) = 1520
+Δ(10,9) = 1680
+Δ(11,10) = 1840
+Δ(12,11) = 2000
+Δ(13,12) = 2160
+Δ(14,13) = 2320
+Δ(15,14) = 2480
+
+Second Differences:
+Δ²(3,2,1) = 160
+Δ²(4,3,2) = 160
+Δ²(5,4,3) = 160
+Δ²(6,5,4) = 160
+Δ²(7,6,5) = 160
+Δ²(8,7,6) = 160
+Δ²(9,8,7) = 160
+Δ²(10,9,8) = 160
+Δ²(11,10,9) = 160
+Δ²(12,11,10) = 160
+Δ²(13,12,11) = 160
+Δ²(14,13,12) = 160
+Δ²(15,14,13) = 160
+
+----------------------------------
+
+Matrix #39 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 256
+Scalar 3 => Determinant = 576
+Scalar 4 => Determinant = 1024
+Scalar 5 => Determinant = 1600
+Scalar 6 => Determinant = 2304
+Scalar 7 => Determinant = 3136
+Scalar 8 => Determinant = 4096
+Scalar 9 => Determinant = 5184
+Scalar 10 => Determinant = 6400
+Scalar 11 => Determinant = 7744
+Scalar 12 => Determinant = 9216
+Scalar 13 => Determinant = 10816
+Scalar 14 => Determinant = 12544
+Scalar 15 => Determinant = 14400
+Scalar 16 => Determinant = 16384
+
+First Differences:
+Δ(2,1) = 320
+Δ(3,2) = 448
+Δ(4,3) = 576
+Δ(5,4) = 704
+Δ(6,5) = 832
+Δ(7,6) = 960
+Δ(8,7) = 1088
+Δ(9,8) = 1216
+Δ(10,9) = 1344
+Δ(11,10) = 1472
+Δ(12,11) = 1600
+Δ(13,12) = 1728
+Δ(14,13) = 1856
+Δ(15,14) = 1984
+
+Second Differences:
+Δ²(3,2,1) = 128
+Δ²(4,3,2) = 128
+Δ²(5,4,3) = 128
+Δ²(6,5,4) = 128
+Δ²(7,6,5) = 128
+Δ²(8,7,6) = 128
+Δ²(9,8,7) = 128
+Δ²(10,9,8) = 128
+Δ²(11,10,9) = 128
+Δ²(12,11,10) = 128
+Δ²(13,12,11) = 128
+Δ²(14,13,12) = 128
+Δ²(15,14,13) = 128
+
+----------------------------------
+
+Matrix #40 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 192
+Scalar 3 => Determinant = 432
+Scalar 4 => Determinant = 768
+Scalar 5 => Determinant = 1200
+Scalar 6 => Determinant = 1728
+Scalar 7 => Determinant = 2352
+Scalar 8 => Determinant = 3072
+Scalar 9 => Determinant = 3888
+Scalar 10 => Determinant = 4800
+Scalar 11 => Determinant = 5808
+Scalar 12 => Determinant = 6912
+Scalar 13 => Determinant = 8112
+Scalar 14 => Determinant = 9408
+Scalar 15 => Determinant = 10800
+Scalar 16 => Determinant = 12288
+
+First Differences:
+Δ(2,1) = 240
+Δ(3,2) = 336
+Δ(4,3) = 432
+Δ(5,4) = 528
+Δ(6,5) = 624
+Δ(7,6) = 720
+Δ(8,7) = 816
+Δ(9,8) = 912
+Δ(10,9) = 1008
+Δ(11,10) = 1104
+Δ(12,11) = 1200
+Δ(13,12) = 1296
+Δ(14,13) = 1392
+Δ(15,14) = 1488
+
+Second Differences:
+Δ²(3,2,1) = 96
+Δ²(4,3,2) = 96
+Δ²(5,4,3) = 96
+Δ²(6,5,4) = 96
+Δ²(7,6,5) = 96
+Δ²(8,7,6) = 96
+Δ²(9,8,7) = 96
+Δ²(10,9,8) = 96
+Δ²(11,10,9) = 96
+Δ²(12,11,10) = 96
+Δ²(13,12,11) = 96
+Δ²(14,13,12) = 96
+Δ²(15,14,13) = 96
+
+----------------------------------
+
+Matrix #41 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 128
+Scalar 3 => Determinant = 288
+Scalar 4 => Determinant = 512
+Scalar 5 => Determinant = 800
+Scalar 6 => Determinant = 1152
+Scalar 7 => Determinant = 1568
+Scalar 8 => Determinant = 2048
+Scalar 9 => Determinant = 2592
+Scalar 10 => Determinant = 3200
+Scalar 11 => Determinant = 3872
+Scalar 12 => Determinant = 4608
+Scalar 13 => Determinant = 5408
+Scalar 14 => Determinant = 6272
+Scalar 15 => Determinant = 7200
+Scalar 16 => Determinant = 8192
+
+First Differences:
+Δ(2,1) = 160
+Δ(3,2) = 224
+Δ(4,3) = 288
+Δ(5,4) = 352
+Δ(6,5) = 416
+Δ(7,6) = 480
+Δ(8,7) = 544
+Δ(9,8) = 608
+Δ(10,9) = 672
+Δ(11,10) = 736
+Δ(12,11) = 800
+Δ(13,12) = 864
+Δ(14,13) = 928
+Δ(15,14) = 992
+
+Second Differences:
+Δ²(3,2,1) = 64
+Δ²(4,3,2) = 64
+Δ²(5,4,3) = 64
+Δ²(6,5,4) = 64
+Δ²(7,6,5) = 64
+Δ²(8,7,6) = 64
+Δ²(9,8,7) = 64
+Δ²(10,9,8) = 64
+Δ²(11,10,9) = 64
+Δ²(12,11,10) = 64
+Δ²(13,12,11) = 64
+Δ²(14,13,12) = 64
+Δ²(15,14,13) = 64
+
+----------------------------------
+
+Matrix #42 (2x2)
+----------------------------------
+Scalar 2 => Determinant = 64
+Scalar 3 => Determinant = 144
+Scalar 4 => Determinant = 256
+Scalar 5 => Determinant = 400
+Scalar 6 => Determinant = 576
+Scalar 7 => Determinant = 784
+Scalar 8 => Determinant = 1024
+Scalar 9 => Determinant = 1296
+Scalar 10 => Determinant = 1600
+Scalar 11 => Determinant = 1936
+Scalar 12 => Determinant = 2304
+Scalar 13 => Determinant = 2704
+Scalar 14 => Determinant = 3136
+Scalar 15 => Determinant = 3600
+Scalar 16 => Determinant = 4096
+
+First Differences:
+Δ(2,1) = 80
+Δ(3,2) = 112
+Δ(4,3) = 144
+Δ(5,4) = 176
+Δ(6,5) = 208
+Δ(7,6) = 240
+Δ(8,7) = 272
+Δ(9,8) = 304
+Δ(10,9) = 336
+Δ(11,10) = 368
+Δ(12,11) = 400
+Δ(13,12) = 432
+Δ(14,13) = 464
+Δ(15,14) = 496
+
+Second Differences:
+Δ²(3,2,1) = 32
+Δ²(4,3,2) = 32
+Δ²(5,4,3) = 32
+Δ²(6,5,4) = 32
+Δ²(7,6,5) = 32
+Δ²(8,7,6) = 32
+Δ²(9,8,7) = 32
+Δ²(10,9,8) = 32
+Δ²(11,10,9) = 32
+Δ²(12,11,10) = 32
+Δ²(13,12,11) = 32
+Δ²(14,13,12) = 32
+Δ²(15,14,13) = 32
+
+----------------------------------
+
+Processed 42 matrices successfully.
