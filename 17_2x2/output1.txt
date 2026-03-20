@@ -1,0 +1,1848 @@
+Matrix #1
+Original Determinant = -16
+GP 1
+Determinants: -64 -256 -1024 -4096 -16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -144 -1296 -11664 -104976 -944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -256 -4096 -65536 -1.04858e+06 -1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -400 -10000 -250000 -6.25e+06 -1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -576 -20736 -746496 -2.68739e+07 -9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -784 -38416 -1.88238e+06 -9.22368e+07 -4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -1024 -65536 -4.1943e+06 -2.68435e+08 -1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -1296 -104976 -8.50306e+06 -6.88748e+08 -5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -1600 -160000 -1.6e+07 -1.6e+09 -1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -1936 -234256 -2.8345e+07 -3.42974e+09 -4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #2
+Original Determinant = -32
+GP 1
+Determinants: -128 -512 -2048 -8192 -32768 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -288 -2592 -23328 -209952 -1.88957e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -512 -8192 -131072 -2.09715e+06 -3.35544e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -800 -20000 -500000 -1.25e+07 -3.125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -1152 -41472 -1.49299e+06 -5.37477e+07 -1.93492e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -1568 -76832 -3.76477e+06 -1.84474e+08 -9.03921e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -2048 -131072 -8.38861e+06 -5.36871e+08 -3.43597e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -2592 -209952 -1.70061e+07 -1.3775e+09 -1.11577e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -3200 -320000 -3.2e+07 -3.2e+09 -3.2e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -3872 -468512 -5.669e+07 -6.85948e+09 -8.29998e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #3
+Original Determinant = -48
+GP 1
+Determinants: -192 -768 -3072 -12288 -49152 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -432 -3888 -34992 -314928 -2.83435e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -768 -12288 -196608 -3.14573e+06 -5.03316e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -1200 -30000 -750000 -1.875e+07 -4.6875e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -1728 -62208 -2.23949e+06 -8.06216e+07 -2.90238e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -2352 -115248 -5.64715e+06 -2.7671e+08 -1.35588e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -3072 -196608 -1.25829e+07 -8.05306e+08 -5.15396e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -3888 -314928 -2.55092e+07 -2.06624e+09 -1.67366e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -4800 -480000 -4.8e+07 -4.8e+09 -4.8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -5808 -702768 -8.50349e+07 -1.02892e+10 -1.245e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #4
+Original Determinant = -64
+GP 1
+Determinants: -256 -1024 -4096 -16384 -65536 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -576 -5184 -46656 -419904 -3.77914e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -1024 -16384 -262144 -4.1943e+06 -6.71089e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -1600 -40000 -1e+06 -2.5e+07 -6.25e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -2304 -82944 -2.98598e+06 -1.07495e+08 -3.86984e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -3136 -153664 -7.52954e+06 -3.68947e+08 -1.80784e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -4096 -262144 -1.67772e+07 -1.07374e+09 -6.87195e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -5184 -419904 -3.40122e+07 -2.75499e+09 -2.23154e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -6400 -640000 -6.4e+07 -6.4e+09 -6.4e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -7744 -937024 -1.1338e+08 -1.3719e+10 -1.66e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #5
+Original Determinant = -80
+GP 1
+Determinants: -320 -1280 -5120 -20480 -81920 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -720 -6480 -58320 -524880 -4.72392e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -1280 -20480 -327680 -5.24288e+06 -8.38861e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -2000 -50000 -1.25e+06 -3.125e+07 -7.8125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -2880 -103680 -3.73248e+06 -1.34369e+08 -4.83729e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -3920 -192080 -9.41192e+06 -4.61184e+08 -2.2598e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -5120 -327680 -2.09715e+07 -1.34218e+09 -8.58993e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -6480 -524880 -4.25153e+07 -3.44374e+09 -2.78943e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -8000 -800000 -8e+07 -8e+09 -8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -9680 -1.17128e+06 -1.41725e+08 -1.71487e+10 -2.07499e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #6
+Original Determinant = -96
+GP 1
+Determinants: -384 -1536 -6144 -24576 -98304 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -864 -7776 -69984 -629856 -5.6687e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -1536 -24576 -393216 -6.29146e+06 -1.00663e+08 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -2400 -60000 -1.5e+06 -3.75e+07 -9.375e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -3456 -124416 -4.47898e+06 -1.61243e+08 -5.80475e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -4704 -230496 -1.12943e+07 -5.53421e+08 -2.71176e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -6144 -393216 -2.51658e+07 -1.61061e+09 -1.03079e+11 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -7776 -629856 -5.10183e+07 -4.13249e+09 -3.34731e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -9600 -960000 -9.6e+07 -9.6e+09 -9.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -11616 -1.40554e+06 -1.7007e+08 -2.05785e+10 -2.48999e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #7
+Original Determinant = 16
+GP 1
+Determinants: 64 256 1024 4096 16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 144 1296 11664 104976 944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 256 4096 65536 1.04858e+06 1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 400 10000 250000 6.25e+06 1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 576 20736 746496 2.68739e+07 9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 784 38416 1.88238e+06 9.22368e+07 4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 1024 65536 4.1943e+06 2.68435e+08 1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 1296 104976 8.50306e+06 6.88748e+08 5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 1600 160000 1.6e+07 1.6e+09 1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 1936 234256 2.8345e+07 3.42974e+09 4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #8
+Original Determinant = -16
+GP 1
+Determinants: -64 -256 -1024 -4096 -16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -144 -1296 -11664 -104976 -944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -256 -4096 -65536 -1.04858e+06 -1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -400 -10000 -250000 -6.25e+06 -1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -576 -20736 -746496 -2.68739e+07 -9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -784 -38416 -1.88238e+06 -9.22368e+07 -4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -1024 -65536 -4.1943e+06 -2.68435e+08 -1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -1296 -104976 -8.50306e+06 -6.88748e+08 -5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -1600 -160000 -1.6e+07 -1.6e+09 -1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -1936 -234256 -2.8345e+07 -3.42974e+09 -4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #9
+Original Determinant = -32
+GP 1
+Determinants: -128 -512 -2048 -8192 -32768 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -288 -2592 -23328 -209952 -1.88957e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -512 -8192 -131072 -2.09715e+06 -3.35544e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -800 -20000 -500000 -1.25e+07 -3.125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -1152 -41472 -1.49299e+06 -5.37477e+07 -1.93492e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -1568 -76832 -3.76477e+06 -1.84474e+08 -9.03921e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -2048 -131072 -8.38861e+06 -5.36871e+08 -3.43597e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -2592 -209952 -1.70061e+07 -1.3775e+09 -1.11577e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -3200 -320000 -3.2e+07 -3.2e+09 -3.2e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -3872 -468512 -5.669e+07 -6.85948e+09 -8.29998e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #10
+Original Determinant = -48
+GP 1
+Determinants: -192 -768 -3072 -12288 -49152 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -432 -3888 -34992 -314928 -2.83435e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -768 -12288 -196608 -3.14573e+06 -5.03316e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -1200 -30000 -750000 -1.875e+07 -4.6875e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -1728 -62208 -2.23949e+06 -8.06216e+07 -2.90238e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -2352 -115248 -5.64715e+06 -2.7671e+08 -1.35588e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -3072 -196608 -1.25829e+07 -8.05306e+08 -5.15396e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -3888 -314928 -2.55092e+07 -2.06624e+09 -1.67366e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -4800 -480000 -4.8e+07 -4.8e+09 -4.8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -5808 -702768 -8.50349e+07 -1.02892e+10 -1.245e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #11
+Original Determinant = -64
+GP 1
+Determinants: -256 -1024 -4096 -16384 -65536 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -576 -5184 -46656 -419904 -3.77914e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -1024 -16384 -262144 -4.1943e+06 -6.71089e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -1600 -40000 -1e+06 -2.5e+07 -6.25e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -2304 -82944 -2.98598e+06 -1.07495e+08 -3.86984e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -3136 -153664 -7.52954e+06 -3.68947e+08 -1.80784e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -4096 -262144 -1.67772e+07 -1.07374e+09 -6.87195e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -5184 -419904 -3.40122e+07 -2.75499e+09 -2.23154e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -6400 -640000 -6.4e+07 -6.4e+09 -6.4e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -7744 -937024 -1.1338e+08 -1.3719e+10 -1.66e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #12
+Original Determinant = -80
+GP 1
+Determinants: -320 -1280 -5120 -20480 -81920 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -720 -6480 -58320 -524880 -4.72392e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -1280 -20480 -327680 -5.24288e+06 -8.38861e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -2000 -50000 -1.25e+06 -3.125e+07 -7.8125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -2880 -103680 -3.73248e+06 -1.34369e+08 -4.83729e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -3920 -192080 -9.41192e+06 -4.61184e+08 -2.2598e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -5120 -327680 -2.09715e+07 -1.34218e+09 -8.58993e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -6480 -524880 -4.25153e+07 -3.44374e+09 -2.78943e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -8000 -800000 -8e+07 -8e+09 -8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -9680 -1.17128e+06 -1.41725e+08 -1.71487e+10 -2.07499e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #13
+Original Determinant = 32
+GP 1
+Determinants: 128 512 2048 8192 32768 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 288 2592 23328 209952 1.88957e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 512 8192 131072 2.09715e+06 3.35544e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 800 20000 500000 1.25e+07 3.125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 1152 41472 1.49299e+06 5.37477e+07 1.93492e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 1568 76832 3.76477e+06 1.84474e+08 9.03921e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 2048 131072 8.38861e+06 5.36871e+08 3.43597e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 2592 209952 1.70061e+07 1.3775e+09 1.11577e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 3200 320000 3.2e+07 3.2e+09 3.2e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 3872 468512 5.669e+07 6.85948e+09 8.29998e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #14
+Original Determinant = 16
+GP 1
+Determinants: 64 256 1024 4096 16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 144 1296 11664 104976 944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 256 4096 65536 1.04858e+06 1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 400 10000 250000 6.25e+06 1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 576 20736 746496 2.68739e+07 9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 784 38416 1.88238e+06 9.22368e+07 4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 1024 65536 4.1943e+06 2.68435e+08 1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 1296 104976 8.50306e+06 6.88748e+08 5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 1600 160000 1.6e+07 1.6e+09 1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 1936 234256 2.8345e+07 3.42974e+09 4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #15
+Original Determinant = -16
+GP 1
+Determinants: -64 -256 -1024 -4096 -16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -144 -1296 -11664 -104976 -944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -256 -4096 -65536 -1.04858e+06 -1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -400 -10000 -250000 -6.25e+06 -1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -576 -20736 -746496 -2.68739e+07 -9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -784 -38416 -1.88238e+06 -9.22368e+07 -4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -1024 -65536 -4.1943e+06 -2.68435e+08 -1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -1296 -104976 -8.50306e+06 -6.88748e+08 -5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -1600 -160000 -1.6e+07 -1.6e+09 -1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -1936 -234256 -2.8345e+07 -3.42974e+09 -4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #16
+Original Determinant = -32
+GP 1
+Determinants: -128 -512 -2048 -8192 -32768 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -288 -2592 -23328 -209952 -1.88957e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -512 -8192 -131072 -2.09715e+06 -3.35544e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -800 -20000 -500000 -1.25e+07 -3.125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -1152 -41472 -1.49299e+06 -5.37477e+07 -1.93492e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -1568 -76832 -3.76477e+06 -1.84474e+08 -9.03921e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -2048 -131072 -8.38861e+06 -5.36871e+08 -3.43597e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -2592 -209952 -1.70061e+07 -1.3775e+09 -1.11577e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -3200 -320000 -3.2e+07 -3.2e+09 -3.2e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -3872 -468512 -5.669e+07 -6.85948e+09 -8.29998e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #17
+Original Determinant = -48
+GP 1
+Determinants: -192 -768 -3072 -12288 -49152 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -432 -3888 -34992 -314928 -2.83435e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -768 -12288 -196608 -3.14573e+06 -5.03316e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -1200 -30000 -750000 -1.875e+07 -4.6875e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -1728 -62208 -2.23949e+06 -8.06216e+07 -2.90238e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -2352 -115248 -5.64715e+06 -2.7671e+08 -1.35588e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -3072 -196608 -1.25829e+07 -8.05306e+08 -5.15396e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -3888 -314928 -2.55092e+07 -2.06624e+09 -1.67366e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -4800 -480000 -4.8e+07 -4.8e+09 -4.8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -5808 -702768 -8.50349e+07 -1.02892e+10 -1.245e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #18
+Original Determinant = -64
+GP 1
+Determinants: -256 -1024 -4096 -16384 -65536 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -576 -5184 -46656 -419904 -3.77914e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -1024 -16384 -262144 -4.1943e+06 -6.71089e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -1600 -40000 -1e+06 -2.5e+07 -6.25e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -2304 -82944 -2.98598e+06 -1.07495e+08 -3.86984e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -3136 -153664 -7.52954e+06 -3.68947e+08 -1.80784e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -4096 -262144 -1.67772e+07 -1.07374e+09 -6.87195e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -5184 -419904 -3.40122e+07 -2.75499e+09 -2.23154e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -6400 -640000 -6.4e+07 -6.4e+09 -6.4e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -7744 -937024 -1.1338e+08 -1.3719e+10 -1.66e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #19
+Original Determinant = 48
+GP 1
+Determinants: 192 768 3072 12288 49152 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 432 3888 34992 314928 2.83435e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 768 12288 196608 3.14573e+06 5.03316e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 1200 30000 750000 1.875e+07 4.6875e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 1728 62208 2.23949e+06 8.06216e+07 2.90238e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 2352 115248 5.64715e+06 2.7671e+08 1.35588e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 3072 196608 1.25829e+07 8.05306e+08 5.15396e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 3888 314928 2.55092e+07 2.06624e+09 1.67366e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 4800 480000 4.8e+07 4.8e+09 4.8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 5808 702768 8.50349e+07 1.02892e+10 1.245e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #20
+Original Determinant = 32
+GP 1
+Determinants: 128 512 2048 8192 32768 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 288 2592 23328 209952 1.88957e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 512 8192 131072 2.09715e+06 3.35544e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 800 20000 500000 1.25e+07 3.125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 1152 41472 1.49299e+06 5.37477e+07 1.93492e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 1568 76832 3.76477e+06 1.84474e+08 9.03921e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 2048 131072 8.38861e+06 5.36871e+08 3.43597e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 2592 209952 1.70061e+07 1.3775e+09 1.11577e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 3200 320000 3.2e+07 3.2e+09 3.2e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 3872 468512 5.669e+07 6.85948e+09 8.29998e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #21
+Original Determinant = 16
+GP 1
+Determinants: 64 256 1024 4096 16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 144 1296 11664 104976 944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 256 4096 65536 1.04858e+06 1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 400 10000 250000 6.25e+06 1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 576 20736 746496 2.68739e+07 9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 784 38416 1.88238e+06 9.22368e+07 4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 1024 65536 4.1943e+06 2.68435e+08 1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 1296 104976 8.50306e+06 6.88748e+08 5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 1600 160000 1.6e+07 1.6e+09 1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 1936 234256 2.8345e+07 3.42974e+09 4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #22
+Original Determinant = -16
+GP 1
+Determinants: -64 -256 -1024 -4096 -16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -144 -1296 -11664 -104976 -944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -256 -4096 -65536 -1.04858e+06 -1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -400 -10000 -250000 -6.25e+06 -1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -576 -20736 -746496 -2.68739e+07 -9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -784 -38416 -1.88238e+06 -9.22368e+07 -4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -1024 -65536 -4.1943e+06 -2.68435e+08 -1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -1296 -104976 -8.50306e+06 -6.88748e+08 -5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -1600 -160000 -1.6e+07 -1.6e+09 -1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -1936 -234256 -2.8345e+07 -3.42974e+09 -4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #23
+Original Determinant = -32
+GP 1
+Determinants: -128 -512 -2048 -8192 -32768 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -288 -2592 -23328 -209952 -1.88957e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -512 -8192 -131072 -2.09715e+06 -3.35544e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -800 -20000 -500000 -1.25e+07 -3.125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -1152 -41472 -1.49299e+06 -5.37477e+07 -1.93492e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -1568 -76832 -3.76477e+06 -1.84474e+08 -9.03921e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -2048 -131072 -8.38861e+06 -5.36871e+08 -3.43597e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -2592 -209952 -1.70061e+07 -1.3775e+09 -1.11577e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -3200 -320000 -3.2e+07 -3.2e+09 -3.2e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -3872 -468512 -5.669e+07 -6.85948e+09 -8.29998e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #24
+Original Determinant = -48
+GP 1
+Determinants: -192 -768 -3072 -12288 -49152 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -432 -3888 -34992 -314928 -2.83435e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -768 -12288 -196608 -3.14573e+06 -5.03316e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -1200 -30000 -750000 -1.875e+07 -4.6875e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -1728 -62208 -2.23949e+06 -8.06216e+07 -2.90238e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -2352 -115248 -5.64715e+06 -2.7671e+08 -1.35588e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -3072 -196608 -1.25829e+07 -8.05306e+08 -5.15396e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -3888 -314928 -2.55092e+07 -2.06624e+09 -1.67366e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -4800 -480000 -4.8e+07 -4.8e+09 -4.8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -5808 -702768 -8.50349e+07 -1.02892e+10 -1.245e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #25
+Original Determinant = 64
+GP 1
+Determinants: 256 1024 4096 16384 65536 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 576 5184 46656 419904 3.77914e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 1024 16384 262144 4.1943e+06 6.71089e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 1600 40000 1e+06 2.5e+07 6.25e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 2304 82944 2.98598e+06 1.07495e+08 3.86984e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 3136 153664 7.52954e+06 3.68947e+08 1.80784e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 4096 262144 1.67772e+07 1.07374e+09 6.87195e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 5184 419904 3.40122e+07 2.75499e+09 2.23154e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 6400 640000 6.4e+07 6.4e+09 6.4e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 7744 937024 1.1338e+08 1.3719e+10 1.66e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #26
+Original Determinant = 48
+GP 1
+Determinants: 192 768 3072 12288 49152 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 432 3888 34992 314928 2.83435e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 768 12288 196608 3.14573e+06 5.03316e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 1200 30000 750000 1.875e+07 4.6875e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 1728 62208 2.23949e+06 8.06216e+07 2.90238e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 2352 115248 5.64715e+06 2.7671e+08 1.35588e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 3072 196608 1.25829e+07 8.05306e+08 5.15396e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 3888 314928 2.55092e+07 2.06624e+09 1.67366e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 4800 480000 4.8e+07 4.8e+09 4.8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 5808 702768 8.50349e+07 1.02892e+10 1.245e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #27
+Original Determinant = 32
+GP 1
+Determinants: 128 512 2048 8192 32768 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 288 2592 23328 209952 1.88957e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 512 8192 131072 2.09715e+06 3.35544e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 800 20000 500000 1.25e+07 3.125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 1152 41472 1.49299e+06 5.37477e+07 1.93492e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 1568 76832 3.76477e+06 1.84474e+08 9.03921e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 2048 131072 8.38861e+06 5.36871e+08 3.43597e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 2592 209952 1.70061e+07 1.3775e+09 1.11577e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 3200 320000 3.2e+07 3.2e+09 3.2e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 3872 468512 5.669e+07 6.85948e+09 8.29998e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #28
+Original Determinant = 16
+GP 1
+Determinants: 64 256 1024 4096 16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 144 1296 11664 104976 944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 256 4096 65536 1.04858e+06 1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 400 10000 250000 6.25e+06 1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 576 20736 746496 2.68739e+07 9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 784 38416 1.88238e+06 9.22368e+07 4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 1024 65536 4.1943e+06 2.68435e+08 1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 1296 104976 8.50306e+06 6.88748e+08 5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 1600 160000 1.6e+07 1.6e+09 1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 1936 234256 2.8345e+07 3.42974e+09 4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #29
+Original Determinant = -16
+GP 1
+Determinants: -64 -256 -1024 -4096 -16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -144 -1296 -11664 -104976 -944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -256 -4096 -65536 -1.04858e+06 -1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -400 -10000 -250000 -6.25e+06 -1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -576 -20736 -746496 -2.68739e+07 -9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -784 -38416 -1.88238e+06 -9.22368e+07 -4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -1024 -65536 -4.1943e+06 -2.68435e+08 -1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -1296 -104976 -8.50306e+06 -6.88748e+08 -5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -1600 -160000 -1.6e+07 -1.6e+09 -1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -1936 -234256 -2.8345e+07 -3.42974e+09 -4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #30
+Original Determinant = -32
+GP 1
+Determinants: -128 -512 -2048 -8192 -32768 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -288 -2592 -23328 -209952 -1.88957e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -512 -8192 -131072 -2.09715e+06 -3.35544e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -800 -20000 -500000 -1.25e+07 -3.125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -1152 -41472 -1.49299e+06 -5.37477e+07 -1.93492e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -1568 -76832 -3.76477e+06 -1.84474e+08 -9.03921e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -2048 -131072 -8.38861e+06 -5.36871e+08 -3.43597e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -2592 -209952 -1.70061e+07 -1.3775e+09 -1.11577e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -3200 -320000 -3.2e+07 -3.2e+09 -3.2e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -3872 -468512 -5.669e+07 -6.85948e+09 -8.29998e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #31
+Original Determinant = 80
+GP 1
+Determinants: 320 1280 5120 20480 81920 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 720 6480 58320 524880 4.72392e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 1280 20480 327680 5.24288e+06 8.38861e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 2000 50000 1.25e+06 3.125e+07 7.8125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 2880 103680 3.73248e+06 1.34369e+08 4.83729e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 3920 192080 9.41192e+06 4.61184e+08 2.2598e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 5120 327680 2.09715e+07 1.34218e+09 8.58993e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 6480 524880 4.25153e+07 3.44374e+09 2.78943e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 8000 800000 8e+07 8e+09 8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 9680 1.17128e+06 1.41725e+08 1.71487e+10 2.07499e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #32
+Original Determinant = 64
+GP 1
+Determinants: 256 1024 4096 16384 65536 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 576 5184 46656 419904 3.77914e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 1024 16384 262144 4.1943e+06 6.71089e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 1600 40000 1e+06 2.5e+07 6.25e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 2304 82944 2.98598e+06 1.07495e+08 3.86984e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 3136 153664 7.52954e+06 3.68947e+08 1.80784e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 4096 262144 1.67772e+07 1.07374e+09 6.87195e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 5184 419904 3.40122e+07 2.75499e+09 2.23154e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 6400 640000 6.4e+07 6.4e+09 6.4e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 7744 937024 1.1338e+08 1.3719e+10 1.66e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #33
+Original Determinant = 48
+GP 1
+Determinants: 192 768 3072 12288 49152 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 432 3888 34992 314928 2.83435e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 768 12288 196608 3.14573e+06 5.03316e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 1200 30000 750000 1.875e+07 4.6875e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 1728 62208 2.23949e+06 8.06216e+07 2.90238e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 2352 115248 5.64715e+06 2.7671e+08 1.35588e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 3072 196608 1.25829e+07 8.05306e+08 5.15396e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 3888 314928 2.55092e+07 2.06624e+09 1.67366e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 4800 480000 4.8e+07 4.8e+09 4.8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 5808 702768 8.50349e+07 1.02892e+10 1.245e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #34
+Original Determinant = 32
+GP 1
+Determinants: 128 512 2048 8192 32768 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 288 2592 23328 209952 1.88957e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 512 8192 131072 2.09715e+06 3.35544e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 800 20000 500000 1.25e+07 3.125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 1152 41472 1.49299e+06 5.37477e+07 1.93492e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 1568 76832 3.76477e+06 1.84474e+08 9.03921e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 2048 131072 8.38861e+06 5.36871e+08 3.43597e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 2592 209952 1.70061e+07 1.3775e+09 1.11577e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 3200 320000 3.2e+07 3.2e+09 3.2e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 3872 468512 5.669e+07 6.85948e+09 8.29998e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #35
+Original Determinant = 16
+GP 1
+Determinants: 64 256 1024 4096 16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 144 1296 11664 104976 944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 256 4096 65536 1.04858e+06 1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 400 10000 250000 6.25e+06 1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 576 20736 746496 2.68739e+07 9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 784 38416 1.88238e+06 9.22368e+07 4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 1024 65536 4.1943e+06 2.68435e+08 1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 1296 104976 8.50306e+06 6.88748e+08 5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 1600 160000 1.6e+07 1.6e+09 1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 1936 234256 2.8345e+07 3.42974e+09 4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #36
+Original Determinant = -16
+GP 1
+Determinants: -64 -256 -1024 -4096 -16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: -144 -1296 -11664 -104976 -944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: -256 -4096 -65536 -1.04858e+06 -1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: -400 -10000 -250000 -6.25e+06 -1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: -576 -20736 -746496 -2.68739e+07 -9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: -784 -38416 -1.88238e+06 -9.22368e+07 -4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: -1024 -65536 -4.1943e+06 -2.68435e+08 -1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: -1296 -104976 -8.50306e+06 -6.88748e+08 -5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: -1600 -160000 -1.6e+07 -1.6e+09 -1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: -1936 -234256 -2.8345e+07 -3.42974e+09 -4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #37
+Original Determinant = 96
+GP 1
+Determinants: 384 1536 6144 24576 98304 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 864 7776 69984 629856 5.6687e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 1536 24576 393216 6.29146e+06 1.00663e+08 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 2400 60000 1.5e+06 3.75e+07 9.375e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 3456 124416 4.47898e+06 1.61243e+08 5.80475e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 4704 230496 1.12943e+07 5.53421e+08 2.71176e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 6144 393216 2.51658e+07 1.61061e+09 1.03079e+11 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 7776 629856 5.10183e+07 4.13249e+09 3.34731e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 9600 960000 9.6e+07 9.6e+09 9.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 11616 1.40554e+06 1.7007e+08 2.05785e+10 2.48999e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #38
+Original Determinant = 80
+GP 1
+Determinants: 320 1280 5120 20480 81920 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 720 6480 58320 524880 4.72392e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 1280 20480 327680 5.24288e+06 8.38861e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 2000 50000 1.25e+06 3.125e+07 7.8125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 2880 103680 3.73248e+06 1.34369e+08 4.83729e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 3920 192080 9.41192e+06 4.61184e+08 2.2598e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 5120 327680 2.09715e+07 1.34218e+09 8.58993e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 6480 524880 4.25153e+07 3.44374e+09 2.78943e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 8000 800000 8e+07 8e+09 8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 9680 1.17128e+06 1.41725e+08 1.71487e+10 2.07499e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #39
+Original Determinant = 64
+GP 1
+Determinants: 256 1024 4096 16384 65536 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 576 5184 46656 419904 3.77914e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 1024 16384 262144 4.1943e+06 6.71089e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 1600 40000 1e+06 2.5e+07 6.25e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 2304 82944 2.98598e+06 1.07495e+08 3.86984e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 3136 153664 7.52954e+06 3.68947e+08 1.80784e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 4096 262144 1.67772e+07 1.07374e+09 6.87195e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 5184 419904 3.40122e+07 2.75499e+09 2.23154e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 6400 640000 6.4e+07 6.4e+09 6.4e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 7744 937024 1.1338e+08 1.3719e+10 1.66e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #40
+Original Determinant = 48
+GP 1
+Determinants: 192 768 3072 12288 49152 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 432 3888 34992 314928 2.83435e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 768 12288 196608 3.14573e+06 5.03316e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 1200 30000 750000 1.875e+07 4.6875e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 1728 62208 2.23949e+06 8.06216e+07 2.90238e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 2352 115248 5.64715e+06 2.7671e+08 1.35588e+10 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 3072 196608 1.25829e+07 8.05306e+08 5.15396e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 3888 314928 2.55092e+07 2.06624e+09 1.67366e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 4800 480000 4.8e+07 4.8e+09 4.8e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 5808 702768 8.50349e+07 1.02892e+10 1.245e+12 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #41
+Original Determinant = 32
+GP 1
+Determinants: 128 512 2048 8192 32768 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 288 2592 23328 209952 1.88957e+06 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 512 8192 131072 2.09715e+06 3.35544e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 800 20000 500000 1.25e+07 3.125e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 1152 41472 1.49299e+06 5.37477e+07 1.93492e+09 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 1568 76832 3.76477e+06 1.84474e+08 9.03921e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 2048 131072 8.38861e+06 5.36871e+08 3.43597e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 2592 209952 1.70061e+07 1.3775e+09 1.11577e+11 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 3200 320000 3.2e+07 3.2e+09 3.2e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 3872 468512 5.669e+07 6.85948e+09 8.29998e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
+Matrix #42
+Original Determinant = 16
+GP 1
+Determinants: 64 256 1024 4096 16384 
+Ratios: 4 4 4 4 
+
+GP 2
+Determinants: 144 1296 11664 104976 944784 
+Ratios: 9 9 9 9 
+
+GP 3
+Determinants: 256 4096 65536 1.04858e+06 1.67772e+07 
+Ratios: 16 16 16 16 
+
+GP 4
+Determinants: 400 10000 250000 6.25e+06 1.5625e+08 
+Ratios: 25 25 25 25 
+
+GP 5
+Determinants: 576 20736 746496 2.68739e+07 9.67459e+08 
+Ratios: 36 36 36 36 
+
+GP 6
+Determinants: 784 38416 1.88238e+06 9.22368e+07 4.5196e+09 
+Ratios: 49 49 49 49 
+
+GP 7
+Determinants: 1024 65536 4.1943e+06 2.68435e+08 1.71799e+10 
+Ratios: 64 64 64 64 
+
+GP 8
+Determinants: 1296 104976 8.50306e+06 6.88748e+08 5.57886e+10 
+Ratios: 81 81 81 81 
+
+GP 9
+Determinants: 1600 160000 1.6e+07 1.6e+09 1.6e+11 
+Ratios: 100 100 100 100 
+
+GP 10
+Determinants: 1936 234256 2.8345e+07 3.42974e+09 4.14999e+11 
+Ratios: 121 121 121 121 
+
+---------------------------------
+
